@@ -1,0 +1,1 @@
+consols.info("123");
